@@ -22,7 +22,7 @@ class TestFactorial(unittest.TestCase):
         """Test factorial raises ValueError for negative input."""
         with self.assertRaises(ValueError):
             factorial(-2)
-            print("hi")
+            print("anoushka")
 
 if __name__ == "__main__":
     unittest.main()
